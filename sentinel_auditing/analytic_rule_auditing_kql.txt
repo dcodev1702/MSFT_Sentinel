@@ -1,0 +1,5 @@
+//Author: Michael Crane - Microsoft, Security CSA
+SentinelAudit
+| extend ['AR Name'] = tostring(ExtendedProperties.ResourceDisplayName)
+| extend ['Initiated By'] = tostring(ExtendedProperties.CallerName)
+| project TimeGenerated, ['Initiated By'], ['AR Name'], Status, SentinelResourceType, SentinelResourceKind, Description
