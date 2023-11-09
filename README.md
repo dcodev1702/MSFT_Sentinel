@@ -1,2 +1,2 @@
-# MSFT_Sentinel
+# Microsoft Sentinel
 Microsoft Sentinel related material
