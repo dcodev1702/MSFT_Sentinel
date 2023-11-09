@@ -4,3 +4,6 @@
 
 * Create an analytic rule or make a change to an existing one
 ![image](https://github.com/dcodev1702/MSFT_Sentinel/assets/32214072/5fb2919d-144c-4e93-95fb-be9350d10b11)
+
+* Audit the modification of the existing analytic rule
+![image](https://github.com/dcodev1702/MSFT_Sentinel/assets/32214072/d9c5ef7a-a665-419d-9d0a-686fb03d275d)
